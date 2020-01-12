@@ -1,1 +1,3 @@
-# recurrent_neural_networks
+# Recurrent Neural Network
+
+Applications
